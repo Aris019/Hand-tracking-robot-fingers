@@ -54,3 +54,7 @@ and can be easily modified to control other types of actuators as well.
 
 
 
+
+
+https://user-images.githubusercontent.com/76581527/235751841-2562e42e-3133-4015-b071-9f038bf1fbfc.mp4
+
